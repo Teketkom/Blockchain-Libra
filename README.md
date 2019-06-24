@@ -1,4 +1,4 @@
-# Blockchain-Libra
+# Blockchain-Libra-Wiki-RU
 
 Blockchain Libra  (технический документ)
 
